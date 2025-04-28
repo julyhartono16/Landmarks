@@ -2,8 +2,6 @@
 //  LandmarksTests.swift
 //  LandmarksTests
 //
-//  Created by July Hartono on 28/04/25.
-//
 
 import Testing
 @testable import Landmarks

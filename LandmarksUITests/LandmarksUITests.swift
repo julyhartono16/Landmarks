@@ -2,8 +2,6 @@
 //  LandmarksUITests.swift
 //  LandmarksUITests
 //
-//  Created by July Hartono on 28/04/25.
-//
 
 import XCTest
 
